@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 file 2 on RR
-=======
 file2 on LR
->>>>>>> bebe2bb (file2 on LR)
